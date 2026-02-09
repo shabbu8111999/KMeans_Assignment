@@ -41,7 +41,7 @@ K-Means successfully divided the data into 3 distinct clusters, representing sma
 
 ## Visualization (Weight vs Ratio)
 
-The scatter plot shows clustering between the second and third scaled features.
-The yellow colored points represent fishes with higher weight and higher weight-to-length ratio.
-The green colored points represent fishes with medium values.
-The purple colored points represent fishes with clearly larger measurements.
+- The scatter plot shows clustering between the second and third scaled features.
+- The yellow colored points represent fishes with higher weight and higher weight-to-length ratio.
+- The green colored points represent fishes with medium values.
+- The purple colored points represent fishes with clearly larger measurements.
